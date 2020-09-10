@@ -12,4 +12,4 @@ async def on_member_join(member):
     print(f'{member} has entered the server! {member} is incredibly smelly!')
 
 
-bot.run('NzUzNDc3MzAwNjU3MzI0MTAy.X1mwaw.vyeOsqtVs3ffMbXFJBzN-eQ0X7E')
+bot.run('--')
